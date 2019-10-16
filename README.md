@@ -1,6 +1,6 @@
 # WebAppWithDatabaseDemo
 Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps (previously VSTS) 
-
+| Build ![Build Status (https://dev.azure.com/amohammed20000/BuildTriggerThroughGitAutomatic/_apis/build/status/BuildTriggerThroughGitAutomatic-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/amohammed20000/BuildTriggerThroughGitAutomatic/_build/latest?definitionId=11&branchName=master)| 
 </br>
 
 <table>
