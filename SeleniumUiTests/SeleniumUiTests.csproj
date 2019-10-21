@@ -88,18 +88,3 @@
   <Import Project="..\packages\Selenium.WebDriver.ChromeDriver.2.42.0.1\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.ChromeDriver.2.42.0.1\build\Selenium.WebDriver.ChromeDriver.targets')" />
 </Project>
 
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-
-    <DebugType>pdbonly</DebugType>
-
-    <Optimize>true</Optimize>
-
-    <OutputPath>bin\Release\</OutputPath>
-
-    <DefineConstants>TRACE</DefineConstants>
-
-    <ErrorReport>prompt</ErrorReport>
-
-    <WarningLevel>4</WarningLevel>
-
-  </PropertyGroup>
